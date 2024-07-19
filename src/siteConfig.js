@@ -1,5 +1,5 @@
-// please update required information
-const siteMetadata = {
+
+const siteConfig = {
     title: 'Next.js Blog With Tailwind CSS ',
     author: 'YassineBouchama',
     headerTitle: 'Next.js Blog',
@@ -19,4 +19,4 @@ const siteMetadata = {
     locale: 'en-US',
   }
   
-  module.exports = siteMetadata
+  module.exports = siteConfig
